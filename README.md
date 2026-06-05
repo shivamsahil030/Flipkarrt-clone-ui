@@ -4,7 +4,7 @@ A frontend clone of Flipkart built using HTML and CSS, designed to replicate the
 
 ## 📸 Preview
 
-![Flipkart Clone](Flipkart-clone.png)
+![Flipkart Clone](Flipkart clone.png)
 
 ## 🛠️ Tech Stack
 
