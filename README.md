@@ -21,10 +21,13 @@ A frontend clone of Flipkart built using HTML and CSS, designed to replicate the
 
 ## 🌐 Live Demo
 
-Add your deployed link here.
+🔗 https://app.netlify.com/projects/flipkarrt-clone-ui/overview
+
+## 📂 Repository
+
+🔗 https://github.com/shivamsahil030/Flipkarrt-clone-ui.git
 
 ## 👨‍💻 Author
 
 **Shivam Sahil**
 
-GitHub: https://github.com/shivamsahil030
